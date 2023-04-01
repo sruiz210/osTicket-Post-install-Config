@@ -32,7 +32,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 Step 1. Configure roles in the admin panel. Go to:
 
-Admin Panel -> Agents -> Roles
+Admin Panel > Agents > Roles
 For testing purposes create the role: Supreme Admin and assign permissions
 <p>
 -Select<strong> add new role <strong>
@@ -53,7 +53,7 @@ For testing purposes create the role: Supreme Admin and assign permissions
 <p>
 Step 2. Configure the Departments
 
-Admin Panel -> Agents -> Departments
+Admin Panel > Agents > Departments
 For testing purposes create the department: System Administrators
 <p>
 </p>
@@ -62,14 +62,24 @@ For testing purposes create the department: System Administrators
 <img src="https://i.imgur.com/uPv5eTt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+Step 3. Configure Teams
+
+Admin Panel > Agents > Teams
+For the purposes of testing create two teams (Level I Support, Level II Support)
+<p>
+<img src="https://i.imgur.com/YVk8Aj8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 </p>
 <br />
 
+Step 4. Allow anyone to create tickets. Go to:
+
+Admin Panel -> Settings -> User Settings
+Registration Required: Require registration and login to create tickets
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<img src="https://i.imgur.com/ByxGLUC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
