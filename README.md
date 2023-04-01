@@ -82,4 +82,14 @@ Registration Required: Require registration and login to create tickets
 <p>
 </p>
 <img src="https://i.imgur.com/ByxGLUC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+Step 5. Configure Agents (Workers who will work the tickets). Go to:
+
+Admin Panel -> Agents -> Add New
+(Whatever names you choose)
+<p>
+<img src="https://i.imgur.com/XK1qd7w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
