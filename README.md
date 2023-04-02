@@ -97,7 +97,7 @@ Admin Panel > Agents > Add New
 </p>
 <br />
 
-Set agent password
+-Set agent password
 <p>
 5b.
 <p>
@@ -105,3 +105,32 @@ Set agent password
 
 <img src="https://i.imgur.com/CJM6fLG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
+<p>
+</br>
+
+-Set department for agent
+<p>
+5c.
+<p>
+</p>
+<img src="https://i.imgur.com/k16lfCq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<br /> 
+  
+-Set permissions
+<p>
+5d.
+<p>
+</p>
+<img src="https://i.imgur.com/aLDuNto.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<br />
+
+-Set team and click create!
+<p>
+5e.
+<p>
+</p>
+<img src="https://i.imgur.com/gH0rPn4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
