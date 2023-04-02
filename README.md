@@ -134,3 +134,44 @@ Admin Panel > Agents > Add New
 <p>
 </p>
 <img src="https://i.imgur.com/gH0rPn4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+</p>
+<br />
+Step 6. Go the the agent panel and create new user (Customers who can create a service ticket request). Go to:
+
+Agent Panel > Users > Add New
+For the purposes of testing create two users 
+<p>
+<img src="https://i.imgur.com/frlNIaS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+<p>
+</p>
+<br />
+- Enter details for new user
+<p>
+6b.  
+<p>
+<img src="https://i.imgur.com/5li4Knj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+- Click create and new user is created!
+<p>
+6c.
+<p>
+<img src="https://i.imgur.com/2IGzysR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+- Register the new user, set a password and click create account
+<p>
+6d. 
+<p>
+<img src="https://i.imgur.com/en8UEQA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
