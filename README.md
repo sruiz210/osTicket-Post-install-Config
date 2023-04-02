@@ -7,9 +7,6 @@
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -23,11 +20,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- PHP
+
+- osTicket (Help Desk Ticketing System)
+<p>
 
 <h2>Configuration Steps</h2>
 Step 1. Configure roles in the admin panel. Go to:
@@ -172,6 +168,58 @@ For the purposes of testing create two users
 <img src="https://i.imgur.com/en8UEQA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+Step 7. Configure SLA (Service Level Agreements)
+
+Admin Panel > Manage > SLA
+For the purposes of testing configure three
+Sev-A (1 hour, 24/7)
+Sev-B (4 hours, 24/7)
+Sev-C (8 hours, business hours)
+<p>
+
+<p>
+<img src="https://i.imgur.com/l8nwHm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+- Name the plan and set the schedule
+<p>
+7b.
+<p>
+<img src="https://i.imgur.com/iVYUceP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+- Once completed it should look like this
+<p>
+7c.
+<p>
+<img src="https://i.imgur.com/EMz1W9A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+<p>
+<br />
+
+Step 8. Configure Help Topics
+
+Admin Panel > Manage > Help Topics > Add New Help Topic
+<p>
+For the purposes of testing create four topics
+<p> -Business Critical Outage
+<p> -Personal Computer Issues
+<p> -Equipment Request
+<p> -Password Reset
+<p>
+<img src="https://i.imgur.com/RkI9dSo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+- Once completed it should look like this
+<p>
+8b.
+<p>
+<img src="https://i.imgur.com/NAA4E7j.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
