@@ -36,12 +36,17 @@ For testing purposes create the role: Supreme Admin and assign permissions
 <img src="https://i.imgur.com/Q0cqtHv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- <strong> Name your new role <strong>  
+ 
+<p>
+1b. Name the role
 <p>
 <img src="https://i.imgur.com/FkdB3L8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- <strong> Assign desired permissions and then click add role. <strong>
+  
+<p>
+1c.<strong> Assign desired permissions and then click add role. <strong>
+<p>
 <img src="https://i.imgur.com/gQeHxLO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 </p>
@@ -93,9 +98,8 @@ Admin Panel > Agents > Add New
 </p>
 <br />
 
--Set agent password
 <p>
-5b.
+5b. Set agent password
 <p>
 </p>
 
@@ -104,9 +108,8 @@ Admin Panel > Agents > Add New
 <p>
 </br>
 
--Set department for agent
 <p>
-5c.
+5c. Set department for agent
 <p>
 </p>
 <img src="https://i.imgur.com/k16lfCq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -114,9 +117,8 @@ Admin Panel > Agents > Add New
 <p>
 <br /> 
   
--Set permissions
 <p>
-5d.
+5d. Set permissions
 <p>
 </p>
 <img src="https://i.imgur.com/aLDuNto.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -124,9 +126,8 @@ Admin Panel > Agents > Add New
 <p>
 <br />
 
--Set team and click create!
 <p>
-5e.
+5e.Set team and click create!
 <p>
 </p>
 <img src="https://i.imgur.com/gH0rPn4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
@@ -143,27 +144,27 @@ For the purposes of testing create two users
 <p>
 </p>
 <br />
-- Enter details for new user
+
 <p>
-6b.  
+6b. Enter details for new user 
 <p>
 <img src="https://i.imgur.com/5li4Knj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
 <br />
-- Click create and new user is created!
+
 <p>
-6c.
+6c. Click create and new user is created!
 <p>
 <img src="https://i.imgur.com/2IGzysR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
 <br />
-- Register the new user, set a password and click create account
+
 <p>
-6d. 
+6d. Register the new user, set a password and click create account
 <p>
 <img src="https://i.imgur.com/en8UEQA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -174,9 +175,9 @@ Step 7. Configure SLA (Service Level Agreements)
 
 Admin Panel > Manage > SLA
 For the purposes of testing configure three
-Sev-A (1 hour, 24/7)
-Sev-B (4 hours, 24/7)
-Sev-C (8 hours, business hours)
+<p>Sev-A (1 hour, 24/7)
+<P>Sev-B (4 hours, 24/7)
+<p>Sev-C (8 hours, business hours)
 <p>
 
 <p>
@@ -185,18 +186,18 @@ Sev-C (8 hours, business hours)
 <p>
 </p>
 <br />
-- Name the plan and set the schedule
+ 
 <p>
-7b.
+7b. Name the plan and set the schedule
 <p>
 <img src="https://i.imgur.com/iVYUceP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
 <br />
-- Once completed it should look like this
+ 
 <p>
-7c.
+7c. Once completed it should look like this
 <p>
 <img src="https://i.imgur.com/EMz1W9A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
@@ -218,8 +219,8 @@ For the purposes of testing create four topics
 <p>
 </p>
 <br />
-- Once completed it should look like this
+
 <p>
-8b.
+8b. Once completed it should look like this
 <p>
 <img src="https://i.imgur.com/NAA4E7j.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
