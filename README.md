@@ -4,7 +4,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines and walks you through the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
 
@@ -29,7 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 Step 1. Configure roles in the admin panel. Go to:
 
 Admin Panel > Agents > Roles
-For testing purposes create the role: Supreme Admin and assign permissions
+Create the role: Supreme Admin and assign permissions
 <p>
 -Select<strong> add new role <strong>
 <p>
@@ -224,3 +224,5 @@ For the purposes of testing create four topics
 8b. Once completed it should look like this
 <p>
 <img src="https://i.imgur.com/NAA4E7j.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<strong> Thank you for following along. <strong>
