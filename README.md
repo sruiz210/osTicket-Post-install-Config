@@ -34,21 +34,21 @@ Create the role: Supreme Admin and assign permissions
 <p>
 -Select<strong> add new role <strong>
 <p>
-<img src="https://i.imgur.com/Q0cqtHv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/876i9Ab.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
 <p>
 1b. Name the role
 <p>
-<img src="https://i.imgur.com/FkdB3L8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PAfrKn2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
 <p>
-1c.<strong> Assign desired permissions and then click add role. <strong>
+1c.<strong> Assign desired permissions and then click "add role". <strong>
 <p>
-<img src="https://i.imgur.com/gQeHxLO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LvvLaLQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 </p>
 <br />
@@ -56,44 +56,49 @@ Create the role: Supreme Admin and assign permissions
 Step 2. Configure the Departments
 
 Admin Panel > Agents > Departments
+<p>
 Create the department: System Administrators
 <p>
 </p>
-  - Select <strong>add new department<strong> and name your department, then click <strong>create department<strong>
+- Select <strong>add new department<strong> and name your department, then click <strong>create department<strong>
 <p>
-<img src="https://i.imgur.com/uPv5eTt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/djtXuXr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
 <br />
-Step 3. Configure Teams
+Step 3. Configure Teams<p>
 
 Admin Panel > Agents > Teams
+<p>
 Create two teams (Level I Support, Level II Support)
 <p>
-<img src="https://i.imgur.com/YVk8Aj8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EZ6PxKd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
 <br />
 
-Step 4. Allow anyone to create tickets. Go to:
-
-Admin Panel > Settings > User Settings
+Step 4. Allow anyone to create tickets.<p> 
+Go to: Admin Panel > Settings > User Settings
+<p>
 Registration Required: Require registration and login to create tickets
 <p>
 </p>
-<img src="https://i.imgur.com/ByxGLUC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nBwdz7v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
 <br />
-Step 5. Configure Agents (Workers who will work the tickets). Go to:
+Step 5. Configure Agents (Agents who will work the tickets).<p>
 
-Admin Panel > Agents > Add New
-(Whatever names you choose)
+Go to: Admin Panel > Agents > Add New Agent
 <p>
-<img src="https://i.imgur.com/XK1qd7w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+- Add agents name
+<p>
+- Set Password
+<p>
+<img src="https://i.imgur.com/iu2Pkqb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -104,7 +109,7 @@ Admin Panel > Agents > Add New
 <p>
 </p>
 
-<img src="https://i.imgur.com/CJM6fLG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/z3t8gRN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
 <p>
 </br>
@@ -113,7 +118,7 @@ Admin Panel > Agents > Add New
 5c. Set department for agent
 <p>
 </p>
-<img src="https://i.imgur.com/k16lfCq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AiIvj9K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <br /> 
@@ -122,59 +127,62 @@ Admin Panel > Agents > Add New
 5d. Set permissions
 <p>
 </p>
-<img src="https://i.imgur.com/aLDuNto.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sFfl3e1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <br />
 
 <p>
-5e.Set team and click create!
+5e. Set team and click create!
 <p>
 </p>
-<img src="https://i.imgur.com/gH0rPn4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<img src="https://i.imgur.com/OvBK5qq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <br />
-Step 6. Go the the agent panel and create new user (Customers who can create a service ticket request). Go to:
+Step 6. Go to Agent Panel to create new user (Allowing clients to create service ticket requests).<p>
 
-Agent Panel > Users > Add New
-For the purposes of testing create two users 
 <p>
-<img src="https://i.imgur.com/frlNIaS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7RayKgo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
 <p>
 </p>
 <br />
 
+6b. Add New
 <p>
-6b. Enter details for new user 
+<img src="https://i.imgur.com/tZcGe0l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-<img src="https://i.imgur.com/5li4Knj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+  
+6c. Enter details for new user and click add user 
 <p>
-</p>
-<br />
-
-<p>
-6c. Click create and new user is created!
-<p>
-<img src="https://i.imgur.com/2IGzysR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fCQ1wsN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
 <br />
 
 <p>
-6d. Register the new user, set a password and click create account
+6d. New user needs to be registered. Go ahead and click "Register"
 <p>
-<img src="https://i.imgur.com/en8UEQA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Mm0TGui.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
 <br />
-Step 7. Configure SLA (Service Level Agreements)
 
-Admin Panel > Manage > SLA
+
+6e. Set a password and click create account
+<p>
+<img src="https://i.imgur.com/Wnxee5J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+  
+Step 7. Configure SLA (Service Level Agreements)<p>
+
+Admin Panel > Manage > SLA > Add New SLA Plan
 For the purposes of testing configure three
 <p>Sev-A (1 hour, 24/7)
 <P>Sev-B (4 hours, 24/7)
@@ -182,7 +190,7 @@ For the purposes of testing configure three
 <p>
 
 <p>
-<img src="https://i.imgur.com/l8nwHm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZEVGBgU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -191,7 +199,7 @@ For the purposes of testing configure three
 <p>
 7b. Name the plan and set the schedule
 <p>
-<img src="https://i.imgur.com/iVYUceP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vu0nOX7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
