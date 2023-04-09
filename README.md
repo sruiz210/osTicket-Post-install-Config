@@ -20,9 +20,14 @@ This tutorial outlines and walks you through the post-install configuration of t
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- PHP
-
-- osTicket (Help Desk Ticketing System)
+- Configure roles in Admin Panel
+- Configure Departments
+- Configure Teams
+- Configure User settings
+- Configure Agents
+- Create Users
+- Configure SLA (Service Level Agreements)
+- Configure Help Topics
 <p>
 
 <h2>Configuration Steps</h2>
