@@ -34,7 +34,7 @@ Create the role: Supreme Admin and assign permissions
 <p>
 -Select<strong> add new role <strong>
 <p>
-<img src="https://i.imgur.com/876i9Ab.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0bXyHqZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -62,7 +62,7 @@ Create the department: System Administrators
 </p>
 - Select <strong>add new department<strong> and name your department, then click <strong>create department<strong>
 <p>
-<img src="https://i.imgur.com/djtXuXr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AWhnXDR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -73,7 +73,7 @@ Admin Panel > Agents > Teams
 <p>
 Create two teams (Level I Support, Level II Support)
 <p>
-<img src="https://i.imgur.com/EZ6PxKd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7Vnb1sw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -85,7 +85,7 @@ Go to: Admin Panel > Settings > User Settings
 Registration Required: Require registration and login to create tickets
 <p>
 </p>
-<img src="https://i.imgur.com/nBwdz7v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SwpUUD4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -98,7 +98,7 @@ Go to: Admin Panel > Agents > Add New Agent
 <p>
 - Set Password
 <p>
-<img src="https://i.imgur.com/iu2Pkqb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1z6lBwE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -223,7 +223,7 @@ Create four topics. Example:
 <p> -Equipment Request
 <p> -Password Reset
 <p>
-<img src="https://i.imgur.com/RkI9dSo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cLBCty4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
