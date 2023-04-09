@@ -29,6 +29,7 @@ This tutorial outlines and walks you through the post-install configuration of t
 Step 1. Configure roles in the admin panel. Go to:
 
 Admin Panel > Agents > Roles
+
 Create the role: Supreme Admin and assign permissions
 <p>
 -Select<strong> add new role <strong>
@@ -36,7 +37,7 @@ Create the role: Supreme Admin and assign permissions
 <img src="https://i.imgur.com/Q0cqtHv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- 
+
 <p>
 1b. Name the role
 <p>
@@ -55,7 +56,7 @@ Create the role: Supreme Admin and assign permissions
 Step 2. Configure the Departments
 
 Admin Panel > Agents > Departments
-For testing purposes create the department: System Administrators
+Create the department: System Administrators
 <p>
 </p>
   - Select <strong>add new department<strong> and name your department, then click <strong>create department<strong>
@@ -68,7 +69,7 @@ For testing purposes create the department: System Administrators
 Step 3. Configure Teams
 
 Admin Panel > Agents > Teams
-For the purposes of testing create two teams (Level I Support, Level II Support)
+Create two teams (Level I Support, Level II Support)
 <p>
 <img src="https://i.imgur.com/YVk8Aj8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -208,7 +209,7 @@ Step 8. Configure Help Topics
 
 Admin Panel > Manage > Help Topics > Add New Help Topic
 <p>
-For the purposes of testing create four topics
+Create four topics. Example:
 <p> -Business Critical Outage
 <p> -Personal Computer Issues
 <p> -Equipment Request
@@ -224,5 +225,6 @@ For the purposes of testing create four topics
 8b. Once completed it should look like this
 <p>
 <img src="https://i.imgur.com/NAA4E7j.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+                                                                                                
+<p>
 <strong> Thank you for following along. <strong>
